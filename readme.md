@@ -5,11 +5,12 @@
 - 	<a href="http://jmcglone.com/guides/github-pages/">http://jmcglone.com/guides/github-pages/</a>
 
 ## Customizing CSS and HTML in your project pages using Jekyll structures
-- 
+
 
 - Create \_layout folder
 - Create a default.html file in the \_layout folder. This will be the template for how your markdown file is converted to html.
 
+- Source: [https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/](https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/)
 
 
 
