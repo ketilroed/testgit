@@ -4,10 +4,13 @@
 - e.g.ketilroed.github.io
 - 	<a href="http://jmcglone.com/guides/github-pages/">http://jmcglone.com/guides/github-pages/</a>
 
-## Customizing CSS and HTML in your Jekyll theme
-- <a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/>https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/</a>
+## Customizing CSS and HTML in your project pages using Jekyll structures
+- 
 
-1. Create a file called /assets/css/style.scss
+- Create \_layout folder
+- Create a default.html file in the \_layout folder. This will be the template for how your markdown file is converted to html.
+
+
 
 
 # Test image
