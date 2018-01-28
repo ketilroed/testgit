@@ -2,10 +2,10 @@
 
 ## Creating github pages for user
 - e.g.ketilroed.github.io
-- http://jmcglone.com/guides/github-pages/
+- 	<a href="http://jmcglone.com/guides/github-pages/">http://jmcglone.com/guides/github-pages/</a>
 
 ## Customizing CSS and HTML in your Jekyll theme
-- https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/
+- <a href="https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/>https://help.github.com/articles/customizing-css-and-html-in-your-jekyll-theme/</a>
 
 1. Create a file called /assets/css/style.scss
 
